@@ -1,0 +1,41 @@
+name: 意见反馈
+description: 提交建议、活动想法或其他公开反馈
+title: "[反馈]: "
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: 反馈类型
+      options:
+        - 意见建议
+        - 活动想法
+        - 内容勘误
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 具体内容
+      description: 请尽量写清楚你的建议、问题或想法。
+      placeholder: 例如：希望增加某种活动玩法，或指出现有内容中的问题。
+    validations:
+      required: true
+
+  - type: textarea
+    id: reference
+    attributes:
+      label: 补充信息
+      description: 可填写相关截图、链接、背景说明等。
+    validations:
+      required: false
+
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式
+      description: 如需回访，可留下邮箱、QQ 或其他联系方式。
+      placeholder: 可选
+    validations:
+      required: false
