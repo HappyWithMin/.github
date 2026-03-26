@@ -4,5 +4,6 @@
 
 - `profile/README.md`：组织主页说明
 - `.github/ISSUE_TEMPLATE/`：组织级公开 Issue 模板
+- `CONTRIBUTING.md` / `SUPPORT.md` / `SECURITY.md`：默认社区文档
 
 如果你要修改 GitHub 组织首页展示内容，请编辑 `profile/README.md`。
