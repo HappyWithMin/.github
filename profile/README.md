@@ -12,7 +12,6 @@
 
 - 邮箱：[contact@zimin.fan](mailto:contact@zimin.fan)
 - 籽岷主页：https://space.bilibili.com/686127
-- QQ 群：`1079014437`（如希望参与相关工作，欢迎入群联系）
 
 ## 反馈与投稿
 

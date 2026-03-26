@@ -6,7 +6,7 @@
 
 - 公开建议、活动想法与地图投稿，请优先提交 Issue
 - 涉及较大改动的代码或内容，请先沟通方向，再开始实现
-- 如希望长期参与相关工作，欢迎通过 QQ 群 `1079014437` 或邮箱 [contact@zimin.fan](mailto:contact@zimin.fan) 联系
+- 如希望长期参与相关工作，欢迎通过邮箱 [contact@zimin.fan](mailto:contact@zimin.fan) 联系
 
 ## 提交流程
 

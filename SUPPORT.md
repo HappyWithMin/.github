@@ -7,7 +7,6 @@
 ## 私下联系
 
 - 邮箱：[contact@zimin.fan](mailto:contact@zimin.fan)
-- QQ 群：`1079014437`
 - 籽岷主页：https://space.bilibili.com/686127
 
 ## 说明
